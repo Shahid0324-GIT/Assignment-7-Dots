@@ -1,3 +1,3 @@
 ## Working Link
 
-- Follow this (Link)[https://7-dots-assignment.netlify.app/]
+- Follow this [Link](https://7-dots-assignment.netlify.app/)
